@@ -5,7 +5,7 @@ Incorporation of files with SSML is feasible. As an illustration:
 
 
 <picture>
- <img src="./images/Music.png">
+ <img src="./images/Music.png" width=50% height=50%>
 </picture>
 
 Here is a SSML code example
