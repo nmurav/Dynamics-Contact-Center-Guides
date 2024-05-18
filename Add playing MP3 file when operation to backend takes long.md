@@ -7,6 +7,6 @@ images/Music.png
 
 Here is a SSML code example
 ```
-<audio src="https://contoso.com/$web/typing.mp3" />
+<audio src="https://contoso.com/$web/typing.mp3"/>
 ```
 Hint: you can use Azure Static Web Site in teh Azure Storage account to host files. 
